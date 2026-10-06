@@ -1,0 +1,674 @@
+[
+  {
+    "file": "2048.v32",
+    "title": "2048",
+    "size": 27189508,
+    "sha256": "2397dd81a01d0af627c9adc4d90395511f04eda0662c516be0a3a7fc544cee81",
+    "url": "https://vircon32.joyrider3774.xyz/games/2048.v32"
+  },
+  {
+    "file": "asteroids-box2d.v32",
+    "title": "Asteroids B2",
+    "size": 623404,
+    "sha256": "100ddbc0cc426026c639ed3aca3dd38ab53a890935fc492d626703a82037e299",
+    "url": "https://vircon32.joyrider3774.xyz/games/asteroids-box2d.v32"
+  },
+  {
+    "file": "AsteroidsV32.v32",
+    "title": "AsteroidsV32",
+    "size": 297124,
+    "sha256": "776a53950ec2e8abaff80a95c276bdf57830a77f9d859b88b7cc39125c8ae4d4",
+    "url": "https://raw.githubusercontent.com/vircon32/CommunityContent/main/Games/AsteroidsV32/bin/AsteroidsV32.v32"
+  },
+  {
+    "file": "azecy.v32",
+    "title": "My Game",
+    "size": 54919728,
+    "sha256": "ce17ca127825eb8408eb3066c9a4ed77ea7a07cce9c94c598b4fe0ae344a8111",
+    "url": "https://vircon32.joyrider3774.xyz/games/azecy.v32"
+  },
+  {
+    "file": "bad-apple-demo.v32",
+    "title": "Bad Apple music video",
+    "size": 66873028,
+    "sha256": "d9fb71f69a9c01fea90da642f8ac666436dbe2de3838b9db754153d195c1f0d2",
+    "url": "https://vircon32.joyrider3774.xyz/games/bad-apple-demo.v32"
+  },
+  {
+    "file": "basic-platformer.v32",
+    "title": "Basic Platformer",
+    "size": 30071324,
+    "sha256": "ed286d035b482c4c30017a4e5a9530dbb267e05ebe20817c28d8f214bf445188",
+    "url": "https://vircon32.joyrider3774.xyz/games/basic-platformer.v32"
+  },
+  {
+    "file": "battle-plane.v32",
+    "title": "Battle-plain (jam edition)",
+    "size": 6269208,
+    "sha256": "78abe816f9be6206bb60513c2e526b2f0e63e11acb977906c2ab86c0acd11f12",
+    "url": "https://vircon32.joyrider3774.xyz/games/battle-plane.v32"
+  },
+  {
+    "file": "bitwise-tower-defense.v32",
+    "title": "Bitwise Tower Defense",
+    "size": 13819508,
+    "sha256": "ad6d581a92a8bede20ff2bdc6cbe5e5b345b520233ac12f52721c0f57f677bc4",
+    "url": "https://vircon32.joyrider3774.xyz/games/bitwise-tower-defense.v32"
+  },
+  {
+    "file": "bitwise-value-builder.v32",
+    "title": "0x2",
+    "size": 12295268,
+    "sha256": "35598b742b60faebbdf8209dff4822a8d305fb5d12aeb619eab92a9638af5c48",
+    "url": "https://vircon32.joyrider3774.xyz/games/bitwise-value-builder.v32"
+  },
+  {
+    "file": "Blips2.v32",
+    "title": "Blips",
+    "size": 34225444,
+    "sha256": "4fccd53af7ae0c13db611c6dc0af362ecde90c89a0cf3f5c324883f802dbd543",
+    "url": "https://vircon32.joyrider3774.xyz/games/Blips2.v32"
+  },
+  {
+    "file": "Blockdude.v32",
+    "title": "Blockdude",
+    "size": 28167224,
+    "sha256": "a03fb03922cb64e94d7a77968754303b52259380644923f38ce563afc2487748",
+    "url": "https://vircon32.joyrider3774.xyz/games/Blockdude.v32"
+  },
+  {
+    "file": "bohemian-rhapsody.v32",
+    "title": "Bohemian Rhapsody (Lite)",
+    "size": 648440,
+    "sha256": "128e0c59eb07f1661680ce2791c35faccef5a24d5430c3eb734a1ecdad1bc479",
+    "url": "https://vircon32.joyrider3774.xyz/games/bohemian-rhapsody.v32"
+  },
+  {
+    "file": "box32d-angry-birds.v32",
+    "title": "VirconBox2D Angry Blocks",
+    "size": 1615428,
+    "sha256": "a074e88e7a61b1045c25be13441291b44bbb9605e89f310108e948f37894402f",
+    "url": "https://vircon32.joyrider3774.xyz/games/box32d-angry-birds.v32"
+  },
+  {
+    "file": "box32d-showcase.v32",
+    "title": "VirconBox2D MEGADEMO",
+    "size": 335236,
+    "sha256": "c61a251ade19ff6e24b8d879eaab93e8adc53680c796131db7419ea776f84dfb",
+    "url": "https://vircon32.joyrider3774.xyz/games/box32d-showcase.v32"
+  },
+  {
+    "file": "breakout.v32",
+    "title": "Breakout (Demo Version) - William Alley",
+    "size": 3175804,
+    "sha256": "dc50932584a649b978d6008c083227c65d02d90d5924ede79a44e38044ecac15",
+    "url": "https://vircon32.joyrider3774.xyz/games/breakout.v32"
+  },
+  {
+    "file": "bricks-demo.v32",
+    "title": "Demo: Bricks",
+    "size": 5156372,
+    "sha256": "9622eb6ac1ea922bef5086202c02319bbc5c33ed6c4c56751468e9b79d2ff164",
+    "url": "https://vircon32.joyrider3774.xyz/games/bricks-demo.v32"
+  },
+  {
+    "file": "bullethell-playdate.v32",
+    "title": "Bullethell Playdate",
+    "size": 405144,
+    "sha256": "26561ff2af52475ac35e2667853cdaebb0cda27a5057e629ca7d4989de33d176",
+    "url": "https://vircon32.joyrider3774.xyz/games/bullethell-playdate.v32"
+  },
+  {
+    "file": "bunnymark-playdate.v32",
+    "title": "Bunnymark Playdate",
+    "size": 671836,
+    "sha256": "b4484b2f1e9274f79f1ae3f04357c07da434ecaa3d2fecdae7b74410c0ca227b",
+    "url": "https://vircon32.joyrider3774.xyz/games/bunnymark-playdate.v32"
+  },
+  {
+    "file": "bunnymark-vircon32.v32",
+    "title": "BunnyMark",
+    "size": 18168,
+    "sha256": "7fe8a44531417262141435d82a3f35ccfe408df2db81dbacae7cee59e8c5111d",
+    "url": "https://vircon32.joyrider3774.xyz/games/bunnymark-vircon32.v32"
+  },
+  {
+    "file": "chip-8-emulator.v32",
+    "title": "Chip-8 emulator",
+    "size": 1387156,
+    "sha256": "d72426e073d4b0d8d6bb2d3d151043b3714315473b3dc5524b29c521b7a54770",
+    "url": "https://vircon32.joyrider3774.xyz/games/chip-8-emulator.v32"
+  },
+  {
+    "file": "csmon.v32",
+    "title": "Cs Mon",
+    "size": 38523544,
+    "sha256": "9e89e3a771e3922c9a191e6a8ae985a870af07cc823abee756df6dd5880b6481",
+    "url": "https://vircon32.joyrider3774.xyz/games/csmon.v32"
+  },
+  {
+    "file": "deathstarshooter-playdate.v32",
+    "title": "Death Star Shooter Playdate",
+    "size": 1686948,
+    "sha256": "9c2e181bd6d287bfcd5f690aca562f65b5bf6d76fe564d651d9d1d3bc3305b0e",
+    "url": "https://vircon32.joyrider3774.xyz/games/deathstarshooter-playdate.v32"
+  },
+  {
+    "file": "doom-vircon32-frameskip.v32",
+    "title": "Doom (frameskip)",
+    "size": 40103588,
+    "sha256": "5374b03b98aaa1396def44ceb7573c8b283da92b276d4d7092a7a7623c7b2b4d",
+    "url": "https://vircon32.joyrider3774.xyz/games/doom-vircon32-frameskip.v32"
+  },
+  {
+    "file": "doom-vircon32.v32",
+    "title": "Doom (original)",
+    "size": 40102844,
+    "sha256": "01234ae8c69f5f39ff7f15bc1670b96f0b41719cedba5c2878153f2934809740",
+    "url": "https://vircon32.joyrider3774.xyz/games/doom-vircon32.v32"
+  },
+  {
+    "file": "doomv32-demo.v32",
+    "title": "main",
+    "size": 250960,
+    "sha256": "e1e3c9c645257610c000932f12ec8c3215e35d63c30c23b555c68a592c506f0b",
+    "url": "https://vircon32.joyrider3774.xyz/games/doomv32-demo.v32"
+  },
+  {
+    "file": "electron-cat.v32",
+    "title": "Erwin Schrodinger's Electron Cat",
+    "size": 6859332,
+    "sha256": "fad1bb275deb2e02a593b318378954c6632db88481db652bbd8fed94d85f6922",
+    "url": "https://vircon32.joyrider3774.xyz/games/electron-cat.v32"
+  },
+  {
+    "file": "fierce-soldier.v32",
+    "title": "Fierce Soldier",
+    "size": 35337576,
+    "sha256": "8aa9c1a910d73e30ddec255b9ef2bdcb7a9f5241fe033377acec8327c9d3648c",
+    "url": "https://vircon32.joyrider3774.xyz/games/fierce-soldier.v32"
+  },
+  {
+    "file": "Fifteen.v32",
+    "title": "Fifteen",
+    "size": 27212536,
+    "sha256": "413092c5758312a80c7880c45513e4c7d677a7338c81353317131aa5ec097f0d",
+    "url": "https://vircon32.joyrider3774.xyz/games/Fifteen.v32"
+  },
+  {
+    "file": "flapply-birbs.v32",
+    "title": "FlapplyBirbs",
+    "size": 4196860,
+    "sha256": "e2ae635211cc9bb4d51b5a381336ba3438afecb8bbcd9c181eac8396955d2cc8",
+    "url": "https://vircon32.joyrider3774.xyz/games/flapply-birbs.v32"
+  },
+  {
+    "file": "flappy-bird.v32",
+    "title": "FlappyBird_Vircon32",
+    "size": 13224,
+    "sha256": "f62cf0c239795eff132176dc21f82a838e2419ef566bd97e61a5861c01c8e84a",
+    "url": "https://vircon32.joyrider3774.xyz/games/flappy-bird.v32"
+  },
+  {
+    "file": "Formula1.v32",
+    "title": "Formula 1",
+    "size": 1822340,
+    "sha256": "45e4c80cd140b14e35c41be1e14a2f321c421c1f3e69c3e3219c3759be976666",
+    "url": "https://vircon32.joyrider3774.xyz/games/Formula1.v32"
+  },
+  {
+    "file": "gamebuino_classic.v32",
+    "title": "gamebuino_classic",
+    "size": 22300448,
+    "sha256": "0f9b7878d19874d43b75e5319d5300af8fbc65eabd556432d1f73f34b5902a29",
+    "url": "https://vircon32.joyrider3774.xyz/games/gamebuino_classic.v32"
+  },
+  {
+    "file": "golf-2d.v32",
+    "title": "Golf 2D",
+    "size": 25712528,
+    "sha256": "a44c79b583c6e5cff607df28786ca0ca1da175574a45d9a5b9fa2555de35b56a",
+    "url": "https://vircon32.joyrider3774.xyz/games/golf-2d.v32"
+  },
+  {
+    "file": "haunty-ghost.v32",
+    "title": "Haunty Ghost",
+    "size": 11678972,
+    "sha256": "b972a33a948740b78e485a0ae978a8c5b82b1f557a09eedb7df2e4db34a6c7a1",
+    "url": "https://vircon32.joyrider3774.xyz/games/haunty-ghost.v32"
+  },
+  {
+    "file": "jellyfish.v32",
+    "title": "JellyFish",
+    "size": 9945972,
+    "sha256": "efa9e7287e7ddc98bedd28ba52091961a2323c15bfd5143451e3c2b28d590126",
+    "url": "https://vircon32.joyrider3774.xyz/games/jellyfish.v32"
+  },
+  {
+    "file": "kaesugaesu-playdate.v32",
+    "title": "KaesuGaesu Playdate",
+    "size": 28001960,
+    "sha256": "7b1eac1498747fdfa3f2c3ad071d30a0506f08c1f3dcba98d2ed31241f308fe0",
+    "url": "https://vircon32.joyrider3774.xyz/games/kaesugaesu-playdate.v32"
+  },
+  {
+    "file": "mahjong.v32",
+    "title": "Mahjong",
+    "size": 38318332,
+    "sha256": "8cddaf43aba9d0f6a17099506f453dde87842940b21b614b7e7d77d949bc2193",
+    "url": "https://vircon32.joyrider3774.xyz/games/mahjong.v32"
+  },
+  {
+    "file": "market-share-sim.v32",
+    "title": "fall2025/cprog fwg6",
+    "size": 498940,
+    "sha256": "69a0591d3d7b9eaef9ac32b47e57d6d5d5d516fe4fee914f40ca9606585ad66a",
+    "url": "https://vircon32.joyrider3774.xyz/games/market-share-sim.v32"
+  },
+  {
+    "file": "Mazethingie.v32",
+    "title": "Mazethingie",
+    "size": 392684,
+    "sha256": "fc539c506c992717565b743c6e0c87864bbe9706d6a65794a5e86dafa2c0e795",
+    "url": "https://vircon32.joyrider3774.xyz/games/Mazethingie.v32"
+  },
+  {
+    "file": "memorygame.v32",
+    "title": "Memory Game",
+    "size": 1121656,
+    "sha256": "cc4aaceae73b9e2377635cfc626cec88e42dfb7ab2290d10d35fea87d5e7b1da",
+    "url": "https://vircon32.joyrider3774.xyz/games/memorygame.v32"
+  },
+  {
+    "file": "minesweeper.v32",
+    "title": "MineSweeper",
+    "size": 18094132,
+    "sha256": "a3b945a4b622534bec97a40c37a6f705d6accad913d73f2fe013b770bd8ba8be",
+    "url": "https://vircon32.joyrider3774.xyz/games/minesweeper.v32"
+  },
+  {
+    "file": "ocean-storm.v32",
+    "title": "Ocean Storm",
+    "size": 97237712,
+    "sha256": "54b2c6cd948c26255766450c34627663b141d69c2418699532a5f30275c9aa4b",
+    "url": "https://vircon32.joyrider3774.xyz/games/ocean-storm.v32"
+  },
+  {
+    "file": "one-skill.v32",
+    "title": "One Skill",
+    "size": 38891492,
+    "sha256": "0e6cdc230aad8121a57c2b391b80514d9ebae145dcf375e2f00e4f1bd78dee60",
+    "url": "https://vircon32.joyrider3774.xyz/games/one-skill.v32"
+  },
+  {
+    "file": "party-man.v32",
+    "title": "PartyMan",
+    "size": 32828616,
+    "sha256": "5a57b14a299a4bd1525b05b3bf8b839280d7a8bb386ef6f090b3be1d12c438ed",
+    "url": "https://vircon32.joyrider3774.xyz/games/party-man.v32"
+  },
+  {
+    "file": "pdxlander-playdate.v32",
+    "title": "pdxlander Playdate",
+    "size": 408964,
+    "sha256": "7c497ce5ea0d3d0ba224f094a0367b335a7355b3101552922bf288bc8641e6fc",
+    "url": "https://vircon32.joyrider3774.xyz/games/pdxlander-playdate.v32"
+  },
+  {
+    "file": "pixel-hustler.v32",
+    "title": "Pixel Hustler",
+    "size": 2158904,
+    "sha256": "6fac8b72ca4ab4538645275964abb843ddde2453b9b2eff9a6cae881fe64bf0c",
+    "url": "https://vircon32.joyrider3774.xyz/games/pixel-hustler.v32"
+  },
+  {
+    "file": "playing-with-blocks-playdate.v32",
+    "title": "Playing With Blocks Playdate",
+    "size": 7436464,
+    "sha256": "629870f5d94d98f0bb3b5200b858c4845f6a1baae872591ac330fbb15b731e19",
+    "url": "https://vircon32.joyrider3774.xyz/games/playing-with-blocks-playdate.v32"
+  },
+  {
+    "file": "playpong-playdate.v32",
+    "title": "PlayPong Playdate",
+    "size": 24754756,
+    "sha256": "28d83536d793d9880d8c1273887767c486721a91ef3889d83d27f88187bbc4cc",
+    "url": "https://vircon32.joyrider3774.xyz/games/playpong-playdate.v32"
+  },
+  {
+    "file": "prime-calculator.v32",
+    "title": "vircon32-8bit-prime-calculator",
+    "size": 6276,
+    "sha256": "f15117b901b378a8cdceea98af5d2ef5a3a390c467781ad89867a395e8010800",
+    "url": "https://vircon32.joyrider3774.xyz/games/prime-calculator.v32"
+  },
+  {
+    "file": "pseudo-3d-racer-demo.v32",
+    "title": "Pseudo-3D racer demo",
+    "size": 2239892,
+    "sha256": "0a383be990cad34e561ac57bf9ae9fb6be97b9f69d5d47501d4da9966023b89a",
+    "url": "https://vircon32.joyrider3774.xyz/games/pseudo-3d-racer-demo.v32"
+  },
+  {
+    "file": "Puztrix.v32",
+    "title": "Puztrix",
+    "size": 25988476,
+    "sha256": "80456dd1714e2aa1e5dcdd083ec675a9bb1941d0f734cf120ce92d6d9aa98f51",
+    "url": "https://vircon32.joyrider3774.xyz/games/Puztrix.v32"
+  },
+  {
+    "file": "Puzzleland.v32",
+    "title": "Puzzeland",
+    "size": 139633580,
+    "sha256": "300ebc920cc8bd8f5a310a0a3a14d0456a6a4112ed86b0470108c44c0d7f9fd1",
+    "url": "https://vircon32.joyrider3774.xyz/games/Puzzleland.v32"
+  },
+  {
+    "file": "Retrotime.v32",
+    "title": "Retrotime",
+    "size": 222130736,
+    "sha256": "76fef5cc1c55f72ab1f61e44b2ac04d0a30ffb8e2fec54702ba7ef7f559bab41",
+    "url": "https://vircon32.joyrider3774.xyz/games/Retrotime.v32"
+  },
+  {
+    "file": "robosheriff.v32",
+    "title": "Robosheriff",
+    "size": 48822856,
+    "sha256": "5ec76e657d2d220c49f8620a9018c1026e2703e188bb2b7c49169d308702a92e",
+    "url": "https://vircon32.joyrider3774.xyz/games/robosheriff.v32"
+  },
+  {
+    "file": "rpg-concept-demo.v32",
+    "title": "RPG concept",
+    "size": 820532,
+    "sha256": "206cf2708506e1c558870cd294c1b7aff3cbf823b204914e3ab922932a625115",
+    "url": "https://vircon32.joyrider3774.xyz/games/rpg-concept-demo.v32"
+  },
+  {
+    "file": "Rubido.v32",
+    "title": "Rubdio",
+    "size": 64314480,
+    "sha256": "437239a5eb496e391213b12291a880b7c75d1a456cdfece4bfebc04d7aee862d",
+    "url": "https://vircon32.joyrider3774.xyz/games/Rubido.v32"
+  },
+  {
+    "file": "savannah-sprint.v32",
+    "title": "Savanna Sprint - William Alley",
+    "size": 27358232,
+    "sha256": "4cb563642572d7e0c60a40938d0ef34edb08347018ad227d8a9935bbb96311de",
+    "url": "https://vircon32.joyrider3774.xyz/games/savannah-sprint.v32"
+  },
+  {
+    "file": "simple-tennis.v32",
+    "title": "SimpleTennis",
+    "size": 735912,
+    "sha256": "057618c7b2cee77925aaa8bd5172a5f7e09346faae51c816727c791d5efe1131",
+    "url": "https://vircon32.joyrider3774.xyz/games/simple-tennis.v32"
+  },
+  {
+    "file": "skyward-escape.v32",
+    "title": "Skyward Escape",
+    "size": 40476972,
+    "sha256": "c3927d6b4c43e4c4004aac2e84f7610e50cf129c9ddd6d940ff7de356f629968",
+    "url": "https://vircon32.joyrider3774.xyz/games/skyward-escape.v32"
+  },
+  {
+    "file": "solitaire.v32",
+    "title": "Solitaire",
+    "size": 25599608,
+    "sha256": "3c3dc2e42a5edf78d2a83ae5ee545d8c4a1a9491965490f2ee39329d26b12e74",
+    "url": "https://vircon32.joyrider3774.xyz/games/solitaire.v32"
+  },
+  {
+    "file": "spaceinvaders.v32",
+    "title": "[v32cxx] Space Invaders++",
+    "size": 2124272,
+    "sha256": "8e3cc076c0a482188d1f4a42779b2d711fa9d84f5400a98c62df55123a702c04",
+    "url": "https://vircon32.joyrider3774.xyz/games/spaceinvaders.v32"
+  },
+  {
+    "file": "spaceshipment-playdate.v32",
+    "title": "Spaceshipment Playdate",
+    "size": 29365072,
+    "sha256": "a0852dccfd1703d2e9d4e99431010c48b28c1e5f4207ff1abb73e2387a0b9279",
+    "url": "https://vircon32.joyrider3774.xyz/games/spaceshipment-playdate.v32"
+  },
+  {
+    "file": "stellarator-playdate.v32",
+    "title": "Bifusion Playdate",
+    "size": 4511156,
+    "sha256": "89cae5705e31346781bc732c469ffe7a52a8f086cf25a8d5c16e7fd0855b97d2",
+    "url": "https://vircon32.joyrider3774.xyz/games/stellarator-playdate.v32"
+  },
+  {
+    "file": "tempest_32k.v32",
+    "title": "TEMPEST 32K",
+    "size": 179033832,
+    "sha256": "d9f46a599d890c3b1a300d75db7bece6ec092f077719d8a81dd0e2b566f5c2bf",
+    "url": "https://vircon32.joyrider3774.xyz/games/tempest_32k.v32"
+  },
+  {
+    "file": "test-beat-editor.v32",
+    "title": "Test: Beat editor",
+    "size": 1410992,
+    "sha256": "3d0ac0a163b2920a59a5c016552aef320777d507eb6755f6f4e7ffb2778bae1f",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-beat-editor.v32"
+  },
+  {
+    "file": "test-blending-modes.v32",
+    "title": "Test: Blending modes",
+    "size": 2272228,
+    "sha256": "a31b8a4479189e391014f63d7cee37400880b9e9c96217a299a9f59450ac76ea",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-blending-modes.v32"
+  },
+  {
+    "file": "test-cpu-errors.v32",
+    "title": "Test: CPU Errors",
+    "size": 12568,
+    "sha256": "49d72454f585115f74a48d57d6767164252d5af40bef4231c58590eb44aae933",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-cpu-errors.v32"
+  },
+  {
+    "file": "test-date-and-time.v32",
+    "title": "Test: Date and time",
+    "size": 858268,
+    "sha256": "8a642e54c7b420bb2c3b5b37a0218d5fd395fc93001de48a1699e95898c2b95e",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-date-and-time.v32"
+  },
+  {
+    "file": "test-gamepads.v32",
+    "title": "Test: Gamepads",
+    "size": 161732,
+    "sha256": "601e269775f50a781f44b86efa5711295cf96945fc61272b44954a2d879dbeb9",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-gamepads.v32"
+  },
+  {
+    "file": "test-large-zoom.v32",
+    "title": "Test: Large zoom",
+    "size": 17204,
+    "sha256": "0e591740492803c4bd77b7d189600bf2771858d66f0b99f5232d978a09401074",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-large-zoom.v32"
+  },
+  {
+    "file": "test-math-functions.v32",
+    "title": "Test: Math functions",
+    "size": 1030024,
+    "sha256": "b473cd20bdb73586c0f0d7563940e95bae03c2d49605135915026c9144914f70",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-math-functions.v32"
+  },
+  {
+    "file": "test-memory-card.v32",
+    "title": "Test: Memory Card",
+    "size": 454128,
+    "sha256": "b4c624c6d1b56cd25542609060cf521f8cbd0c3e1e0c41f09dd99e5ee6d8074c",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-memory-card.v32"
+  },
+  {
+    "file": "test-minimal-test.v32",
+    "title": "Test: Minimal test",
+    "size": 272176,
+    "sha256": "d6132844be72829983979c352d5f62dfabc019e759d1e479e9f443f926174ed3",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-minimal-test.v32"
+  },
+  {
+    "file": "test-random-numbers.v32",
+    "title": "Test: Random numbers",
+    "size": 534328,
+    "sha256": "454bcfec2efd4bdadf38e3715a6aecd3eb7aa0edbbd7952a79cc31496e4523f5",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-random-numbers.v32"
+  },
+  {
+    "file": "test-rotozoom.v32",
+    "title": "Test: Rotozoom",
+    "size": 1069168,
+    "sha256": "5ab988a6781f8f0d790561e425be85d31871db1b3ca17aeabf54dc25241559bf",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-rotozoom.v32"
+  },
+  {
+    "file": "test-sound-effects.v32",
+    "title": "Test: Sound effects",
+    "size": 449236,
+    "sha256": "dead6bc15979d5b3be98b39accf885428e5b404b7c878ed6606f4263af928fc7",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-sound-effects.v32"
+  },
+  {
+    "file": "test-tile-map.v32",
+    "title": "Test: Tile map",
+    "size": 362584,
+    "sha256": "48c503f472d7a51ab4eddd7f8bde50db0e5847e298460e5866e84cad49df811c",
+    "url": "https://vircon32.joyrider3774.xyz/games/test-tile-map.v32"
+  },
+  {
+    "file": "tic-tac-toe.v32",
+    "title": "vircon32-tic-tac-toe",
+    "size": 1178792,
+    "sha256": "34b97f04974bee443e60dbe68482c6432cc244fbefea069fab4ad00fe9eca9b2",
+    "url": "https://vircon32.joyrider3774.xyz/games/tic-tac-toe.v32"
+  },
+  {
+    "file": "tinyjoypad.v32",
+    "title": "tinyjoypad",
+    "size": 17104292,
+    "sha256": "3b0300d50ccbd7de5de33169ebd0a20ef52951f840c68a48298eaaad9de97d76",
+    "url": "https://vircon32.joyrider3774.xyz/games/tinyjoypad.v32"
+  },
+  {
+    "file": "triple-bubble-demo.v32",
+    "title": "Triple Bubble",
+    "size": 33411740,
+    "sha256": "88b4ab6f6d401eb96145e178448ada964a7c621d5c466616d0590e3a11939088",
+    "url": "https://vircon32.joyrider3774.xyz/games/triple-bubble-demo.v32"
+  },
+  {
+    "file": "tutorial-gemmaze.v32",
+    "title": "Tutorial: Gem Maze",
+    "size": 1174400,
+    "sha256": "6385be7106cbea9e7a63506ed4208ef5afbde3ebf8b6b14bc97727cf9cf80bc4",
+    "url": "https://vircon32.joyrider3774.xyz/games/tutorial-gemmaze.v32"
+  },
+  {
+    "file": "tutorial-shooter.v32",
+    "title": "Tutorial: Shooter",
+    "size": 6649616,
+    "sha256": "b2c929816842079ea90977e6448a718eb962630789654861ebc309771b01d011",
+    "url": "https://vircon32.joyrider3774.xyz/games/tutorial-shooter.v32"
+  },
+  {
+    "file": "untitled-space-shooter.v32",
+    "title": "fwg6",
+    "size": 5942072,
+    "sha256": "dbc55fab442e99cbaccf2b898c7316b6d04c4e7f884547f20c25cb1102942d38",
+    "url": "https://vircon32.joyrider3774.xyz/games/untitled-space-shooter.v32"
+  },
+  {
+    "file": "versus-shooter.v32",
+    "title": "Versus Shooter",
+    "size": 9852796,
+    "sha256": "74c52b059d564a9fa84ac4d4f119073dc522d93285d7c4b57a521c88a2b6d9c8",
+    "url": "https://vircon32.joyrider3774.xyz/games/versus-shooter.v32"
+  },
+  {
+    "file": "Vircoban.v32",
+    "title": "Vircoban",
+    "size": 87359668,
+    "sha256": "fccd15808c1157e606eebe2e0aabad501cf113bb5dc66c9f7b9f5b1152af12d2",
+    "url": "https://vircon32.joyrider3774.xyz/games/Vircoban.v32"
+  },
+  {
+    "file": "vircon-midi-tracker.v32",
+    "title": "Vircon MidiTracker",
+    "size": 209004,
+    "sha256": "0e86a4a30f6fa4622fa0fd82bee28ad52e738a55a18891f5090eeda75cc2b106",
+    "url": "https://vircon32.joyrider3774.xyz/games/vircon-midi-tracker.v32"
+  },
+  {
+    "file": "vircon-synthesizer-demo.v32",
+    "title": "Vircon32 Synth",
+    "size": 189072,
+    "sha256": "b88afa2ad7510ef1e8f5f039828486943e280efc1b3bc94220ac98d3a2bc0494",
+    "url": "https://vircon32.joyrider3774.xyz/games/vircon-synthesizer-demo.v32"
+  },
+  {
+    "file": "virconstein-3d-demo.v32",
+    "title": "Virconstein3D",
+    "size": 1147300,
+    "sha256": "fef6f523d05512e5e571d54a109a27d2e87e75134053d5e35a31e1ca33b57a3f",
+    "url": "https://vircon32.joyrider3774.xyz/games/virconstein-3d-demo.v32"
+  },
+  {
+    "file": "vircout.v32",
+    "title": "Vircout",
+    "size": 15906780,
+    "sha256": "9a0c4bb50c1ba8d934980aa8565b05abd84a01e5c8439628b1633247b11adc03",
+    "url": "https://vircon32.joyrider3774.xyz/games/vircout.v32"
+  },
+  {
+    "file": "vitris.v32",
+    "title": "Vitris",
+    "size": 41611608,
+    "sha256": "d5790608a4cc285b1c2be52a49f4894014b27d4ff4b3b396d3f23f30431408eb",
+    "url": "https://vircon32.joyrider3774.xyz/games/vitris.v32"
+  },
+  {
+    "file": "waronthewater.v32",
+    "title": "War on the Water",
+    "size": 25024532,
+    "sha256": "28a4f2375120aa3f4515ea11f72d5cd3fbad6af2fe8b1911d1190a324eec650a",
+    "url": "https://vircon32.joyrider3774.xyz/games/waronthewater.v32"
+  },
+  {
+    "file": "Waternet.v32",
+    "title": "Waternet",
+    "size": 18759376,
+    "sha256": "aa5207b0e65e1be80d21de22593a062ffddf19b533ad5f7cc7baab7007612615",
+    "url": "https://vircon32.joyrider3774.xyz/games/Waternet.v32"
+  },
+  {
+    "file": "witches-playdate.v32",
+    "title": "Witches Playdate",
+    "size": 7283984,
+    "sha256": "76182e95d7a0b65cb9117c720ab80f04b7904612d4556bba0b4fe859232633f6",
+    "url": "https://vircon32.joyrider3774.xyz/games/witches-playdate.v32"
+  },
+  {
+    "file": "Worm.v32",
+    "title": "Worm",
+    "size": 400552,
+    "sha256": "5216fd373535fc3b29cc7da2f4161f08ac366ea341ffd633d2c5a6373108f4fc",
+    "url": "https://vircon32.joyrider3774.xyz/games/Worm.v32"
+  },
+  {
+    "file": "youcannotgoback-playdate.v32",
+    "title": "You Cannot Go Back Playdate",
+    "size": 77571832,
+    "sha256": "a672506eedb5fedc107d51f9f770b9fe718cc29b6af481819afc2eab48344f43",
+    "url": "https://vircon32.joyrider3774.xyz/games/youcannotgoback-playdate.v32"
+  },
+  {
+    "file": "Znax.v32",
+    "title": "Znax",
+    "size": 31635616,
+    "sha256": "54917dcf2970f81e10476d28e4d6a23239abe19b47cd67dad0ccb7b4c8fd8c18",
+    "url": "https://vircon32.joyrider3774.xyz/games/Znax.v32"
+  }
+]

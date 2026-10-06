@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Vircon32 · WebAssembly</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <div class="brand">
+      <span class="logo" aria-hidden="true">V32</span>
+      <h1>Vircon32 <span class="core">· <span id="core-name">…</span></span></h1>
+    </div>
+    <p id="title" class="cartridge">Starting…</p>
+  </header>
+
+  <main class="layout">
+    <div class="play">
+    <!-- 3D scene; the emulator draws on the hidden #screen canvas, shown on the monitor -->
+    <div id="screen-wrap" class="screen-wrap stage">
+      <canvas id="screen" width="640" height="360" tabindex="0" aria-label="Vircon32 screen"></canvas>
+      <div id="view3d" class="view3d"></div>
+      <div class="drop-hint">Drop a .v32 cartridge or .memc memory card</div>
+      <div class="pause-hint">Paused — press POWER or Esc to resume</div>
+    </div>
+
+    <div class="toolbar" role="toolbar" aria-label="Console controls">
+      <button id="load" class="primary">Load cartridge</button>
+      <button id="eject" disabled>Eject</button>
+      <button id="reset">Reset</button>
+      <button id="pause" aria-pressed="false">Power</button>
+      <button id="view">Zoom screen</button>
+      <span class="spacer"></span>
+      <button id="mute" aria-pressed="false">Mute</button>
+      <label class="volume">Volume <input id="volume" type="range" min="0" max="100" value="100"></label>
+      <button id="fullscreen">Fullscreen</button>
+    </div>
+
+    <div id="error" class="error" role="alert" hidden></div>
+    </div>
+
+    <section class="info">
+      <div>
+        <h2>Controls</h2>
+        <table class="keys">
+          <tr><td>D-pad</td><td><kbd>←</kbd><kbd>↑</kbd><kbd>→</kbd><kbd>↓</kbd></td></tr>
+          <tr><td>A / B</td><td><kbd>X</kbd> or <kbd>Space</kbd> / <kbd>Z</kbd></td></tr>
+          <tr><td>X / Y</td><td><kbd>S</kbd> <kbd>A</kbd></td></tr>
+          <tr><td>L / R</td><td><kbd>Q</kbd> <kbd>W</kbd></td></tr>
+          <tr><td>Start</td><td><kbd>Enter</kbd></td></tr>
+          <tr><td>Pause / Reset</td><td><kbd>Esc</kbd> <kbd>F5</kbd></td></tr>
+        </table>
+        <p class="note">USB and Bluetooth gamepads work too (up to 4 players). In the 3D scene you can also press the gamepad and console buttons, click the slot to insert a cartridge, click the monitor to zoom in, and drag to look around.</p>
+      </div>
+      <div>
+        <h2>Memory card</h2>
+        <p class="note">Each cartridge gets its own memory card, saved automatically in this browser. Click the MEMORY CARD slot to download it.</p>
+        <div class="row">
+          <button id="card-export">Download .memc</button>
+          <button id="card-import">Import .memc</button>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <span id="stats">–</span>
+    <span>Based on <a href="https://github.com/vircon32/ComputerSoftware">Vircon32</a> by Carra · BSD-3-Clause</span>
+  </footer>
+
+  <input id="file" type="file" accept=".v32,.memc" hidden>
+  <script type="module" src="vircon32.js"></script>
+</body>
+</html>

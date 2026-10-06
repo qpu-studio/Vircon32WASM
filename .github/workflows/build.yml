@@ -1,0 +1,22 @@
+name: Build and test
+on: [push, pull_request, workflow_dispatch]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: mymindstorm/setup-emsdk@v14
+        with:
+          version: 3.1.52
+      - run: npm install
+      - run: npm run build:wasm
+      - run: npm run typecheck
+      - run: npm run build:web
+      - run: npm test
+      - uses: actions/upload-artifact@v4
+        with:
+          name: vircon32-wasm-web
+          path: web/public/

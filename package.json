@@ -1,0 +1,24 @@
+{
+  "name": "vircon32-wasm",
+  "version": "1.0.0",
+  "description": "The official Vircon32 C++ console logic compiled to WebAssembly with Emscripten, running in the browser",
+  "license": "BSD-3-Clause",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:wasm": "./build.sh",
+    "build:web": "esbuild web/src/main.ts --bundle --format=esm --target=es2022 --minify --sourcemap --outfile=web/public/vircon32.js",
+    "build": "npm run build:wasm && npm run build:web",
+    "dev": "esbuild web/src/main.ts --bundle --format=esm --target=es2022 --sourcemap --outfile=web/public/vircon32.js --servedir=web/public --watch",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx tests/headless.mts",
+    "games": "node games/download.mjs"
+  },
+  "devDependencies": {
+    "@types/three": "^0.186.0",
+    "esbuild": "^0.25.0",
+    "three": "^0.186.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}
